@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**marcellokaminski/marcellokaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Marcello Kaminski
 
-Here are some ideas to get you started:
+🎯 Desarrollador apasionado por crear soluciones limpias y eficientes. Amante del aprendizaje continuo y de los desafíos tecnológicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
+
+
+## 🚀 Tecnologías que uso
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30"/>
+</p>
+
+
+---
+
+✨ *Gracias por visitar mi perfil de GitHub. ¡Que tengas un gran día!*
