@@ -12,7 +12,7 @@
   
 - 💬 Pregúntame sobre SQL y JavaScript
   
-- ⚡ ⚡ Dato curioso:Me gusta La F1 🏎
+ - ⚡ Dato curioso:Me gusta La F1 🏎
 
 ## 🚀 Tecnologías que uso
 <p>
