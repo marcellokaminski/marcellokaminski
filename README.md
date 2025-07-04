@@ -1,21 +1,18 @@
-## Hi there 👋
-
 # 👋 ¡Hola! Soy Marcello Kaminski
 
-🎯 Desarrollador apasionado por crear soluciones limpias y eficientes. Amante del aprendizaje continuo y de los desafíos tecnológicos.
+🎯soy un Desarrollador apasionado por crear soluciones limpias y eficientes. Amante del aprendizaje continuo y de los desafíos tecnológicos.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 actualmente estoy estudiando desarrollo web
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 estoy aprendiendo css, Java y python 
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👨‍💻 Busco colaborar en proyectos
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Pregúntame sobre SQL y JavaScript
   
-- ⚡ Fun fact: Me gustan los girasoles.
-
+- ⚡ ⚡ Dato curioso:Me gusta La F1 🏎
 
 ## 🚀 Tecnologías que uso
 <p>
